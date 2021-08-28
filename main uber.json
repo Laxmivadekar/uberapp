@@ -1,0 +1,32 @@
+{
+    "identity": 7,
+    "name": "sajith",
+    "current location": "sarjapur",
+    "destination": "huskuru",
+    "isheriding": true,
+    "payment_optioons": "cash or online",
+    "car": 240,
+    "payment_options": "online",
+    "feedback": [
+        "nice","good"
+    ],
+    "rating": [
+        "***"
+    ]
+}{
+    "identity": 7,
+    "name": "sajith",
+    "current location": "mancherial",
+    "destination": "kabeer",
+    "isheriding": true,
+    "payment_optioons": "cash or online",
+    "car": 1050,
+    "payment_options": "online",
+    "feedback": [
+        " good"
+    ],
+    "rating": [
+        "*****"
+    ],
+    "phonenumber": "9553880630"
+}
